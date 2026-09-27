@@ -4,8 +4,8 @@
 
 ```text
 Core:
-- First principles
-- Entropy reduction
-- Drive for overcoming
+- First Principles
+- Entropy Reduction
+- Drive for Overcoming
 
 ```
